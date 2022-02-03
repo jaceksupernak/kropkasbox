@@ -9,4 +9,4 @@ LIVE LINK: https://www.kropkasbox.com/
 ## Features
 
 - responsiveness powered by flexbox
-- fully accesibile for those with accessibility needs
+- fully accessibile for those with accessibility needs
