@@ -1,1 +1,12 @@
-Kropkasbox is a responsive landing page for a comic strip made with HTML/CSS/Vanilla Javascript.
+#Kropkasbox
+
+##Overview
+
+A simple comic strip landing page created for the Chingu Voyage 37. 
+
+LIVE LINK: https://www.kropkasbox.com/
+
+##Features
+
+-responsiveness powered by flexbox
+-fully accesibile for those with accessibility needs
