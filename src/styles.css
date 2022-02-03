@@ -103,16 +103,16 @@ transition: 0.4s;
 }
 
 .bar1 {
-background-image: url("./img/bar1.png");
+background-image: url("./../assets/bar1.png");
 }
 
 .bar2 {
     
-background-image: url("./img/bar2.png");
+background-image: url("./../assets/bar2.png");
 }
 
 .bar3 {
-background-image: url("./img/bar3.png");
+background-image: url("./../assets/bar3.png");
 }
 
 .change .bar1 {
