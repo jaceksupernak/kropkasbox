@@ -2,9 +2,9 @@
 
 ## Overview
 
-A simple comic strip landing page created for the Chingu Voyage 37. 
+A simple comic strip landing page.
 
-LIVE LINK: https://www.kropkasbox.com/
+LIVE LINK: https://www.kropkasbox.com/ status: offline
 
 ## Features
 
