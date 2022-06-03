@@ -2,9 +2,9 @@
 
 ## Overview
 
-A simple comic strip landing page.
+A simple comic strip landing page made for a cat that is mostly feeling grumpy. The cat's name is Kropka ('a dot' in polish) and she is even grumpier now having her life exposed to the public.
 
-LIVE LINK: https://www.kropkasbox.com/ status: offline
+LIVE LINK: https://jaceksupernak.github.io/kropkasbox 
 
 ## Features
 
